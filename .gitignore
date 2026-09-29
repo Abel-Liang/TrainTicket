@@ -1,0 +1,16 @@
+# 运行时缓存（车站表、经停站），会自动重建
+data/
+
+# 虚拟环境
+.venv/
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 编辑器 / 系统
+.vscode/
+.idea/
+Thumbs.db
+desktop.ini
